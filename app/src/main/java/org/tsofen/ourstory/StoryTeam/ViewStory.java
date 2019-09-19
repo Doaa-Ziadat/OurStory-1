@@ -139,6 +139,7 @@ public class ViewStory extends AppCompatActivity implements Serializable {
 
                     date1 = day + "/" + month + "/" + year;
 
+
                     parts = date2.split("-");
                     year = parts[0];
                     month = parts[1];
